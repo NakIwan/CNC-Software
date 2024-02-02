@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6E8E34CB-3666-4855-83C5-F5FB755669BB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Mecha_Gcode_Sender</RootNamespace>
+    <AssemblyName>MX Controller</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\2iC\Pictures\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>MX Controller.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>395C1B9AB34AFD30A81B94E46ECB7B8B046933BA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Mecha Gcode Sender_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About Us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About Us.Designer.cs">
+      <DependentUpon>About Us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bahasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bahasa.Designer.cs">
+      <DependentUpon>Bahasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exit.Designer.cs">
+      <DependentUpon>exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feedrate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feedrate.Designer.cs">
+      <DependentUpon>Feedrate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainMenu.Designer.cs">
+      <DependentUpon>mainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spindle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spindle.Designer.cs">
+      <DependentUpon>Spindle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About Us.resx">
+      <DependentUpon>About Us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bahasa.resx">
+      <DependentUpon>Bahasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exit.en-AS.resx">
+      <DependentUpon>exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exit.en.resx">
+      <DependentUpon>exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exit.resx">
+      <DependentUpon>exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feedrate.en.resx">
+      <DependentUpon>Feedrate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feedrate.id.resx">
+      <DependentUpon>Feedrate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feedrate.resx">
+      <DependentUpon>Feedrate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainMenu.en.resx">
+      <DependentUpon>mainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainMenu.id.resx">
+      <DependentUpon>mainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainMenu.resx">
+      <DependentUpon>mainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Spindle.en.resx">
+      <DependentUpon>Spindle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spindle.id.resx">
+      <DependentUpon>Spindle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spindle.resx">
+      <DependentUpon>Spindle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Mecha Gcode Sender_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MECHA-removebg-preview-_1_.ico" />
+    <Content Include="MECHA-removebg-preview.ico" />
+    <Content Include="MX Controller.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

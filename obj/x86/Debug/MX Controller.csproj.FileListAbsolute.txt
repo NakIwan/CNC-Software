@@ -1,0 +1,66 @@
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.About_Us.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Bahasa.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.exit.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Feedrate.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Form2.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Form1.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.mainMenu.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Properties.Resources.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Spindle.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.exit.en-AS.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.exit.en.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Feedrate.en.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.mainMenu.en.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Spindle.en.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\MX Controller.csproj.GenerateResource.Cache
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Feedrate.id.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.Spindle.id.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\Mecha_Gcode_Sender.mainMenu.id.resources
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\MX Controller.csprojResolveAssemblyReference.cache
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\bin\Debug\MX Controller.exe.manifest
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\bin\Debug\MX Controller.application
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\bin\Debug\MX Controller.exe
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\bin\Debug\MX Controller.pdb
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\bin\Debug\en-AS\MX Controller.resources.dll
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\bin\Debug\en\MX Controller.resources.dll
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\bin\Debug\id\MX Controller.resources.dll
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\en-AS\MX Controller.resources.dll
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\en\MX Controller.resources.dll
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\id\MX Controller.resources.dll
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\MX Controller.exe.manifest
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\MX Controller.application
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\MX Controller.exe
+C:\Users\2iC\Documents\Mecha Gcode Sender\Mecha Gcode Sender\obj\x86\Debug\MX Controller.pdb
+C:\Users\Ridwan Bahari\Downloads\MX Controller\bin\Debug\MX Controller.exe.manifest
+C:\Users\Ridwan Bahari\Downloads\MX Controller\bin\Debug\MX Controller.application
+C:\Users\Ridwan Bahari\Downloads\MX Controller\bin\Debug\MX Controller.exe
+C:\Users\Ridwan Bahari\Downloads\MX Controller\bin\Debug\MX Controller.pdb
+C:\Users\Ridwan Bahari\Downloads\MX Controller\bin\Debug\en-AS\MX Controller.resources.dll
+C:\Users\Ridwan Bahari\Downloads\MX Controller\bin\Debug\en\MX Controller.resources.dll
+C:\Users\Ridwan Bahari\Downloads\MX Controller\bin\Debug\id\MX Controller.resources.dll
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\MX Controller.csprojResolveAssemblyReference.cache
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.About_Us.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Bahasa.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.exit.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Feedrate.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Form2.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Form1.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.mainMenu.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Properties.Resources.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Spindle.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.exit.en-AS.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.exit.en.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Feedrate.en.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Feedrate.id.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.mainMenu.en.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.mainMenu.id.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Spindle.en.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\Mecha_Gcode_Sender.Spindle.id.resources
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\MX Controller.csproj.GenerateResource.Cache
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\en-AS\MX Controller.resources.dll
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\en\MX Controller.resources.dll
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\id\MX Controller.resources.dll
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\MX Controller.exe.manifest
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\MX Controller.application
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\MX Controller.exe
+C:\Users\Ridwan Bahari\Downloads\MX Controller\obj\x86\Debug\MX Controller.pdb
